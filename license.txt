@@ -1,6 +1,6 @@
 License agreement for Ookii.Dialogs.
 
-Copyright © Sven Groot (Ookii.org) 2009
+Copyright Â© Sven Groot (Ookii.org) 2009
 All rights reserved.
 
 
